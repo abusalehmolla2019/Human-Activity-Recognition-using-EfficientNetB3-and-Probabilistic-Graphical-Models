@@ -1,0 +1,2 @@
+# Human-Activity-Recognition-using-EfficientNetB3-and-Probabilistic-Graphical-Models
+Human Activity Recognition (HAR) project comparing EfficientNetB3 deep learning with Probabilistic Graphical Models like Naive Bayes, Bayesian Networks, and HMM. Includes preprocessing, training, evaluation, and visualization to analyze activity classification performance using Python, TensorFlow, and Scikit-learn.
